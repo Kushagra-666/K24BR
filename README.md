@@ -9,10 +9,7 @@
     <ul type="disc">
         <li>A</li>
         <li>B</li>
-        <ul type="circle">
-            <li>B1</li>
-            <li>B2</li>
-            <li>B3</li>
+        
             <ol type="1">
                 <li>B31</li>
                 <li>B32</li>
